@@ -49,7 +49,7 @@ function createPackageFile() {
       } = packageData;
 
       const minimalPackage = {
-        name: "ps-react",
+        name: "reactor-alfredop13",
         author,
         version,
         description,
