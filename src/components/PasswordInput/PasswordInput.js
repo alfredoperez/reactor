@@ -1,9 +1,9 @@
-import PropTypes from 'prop-types';
-import React from 'react';
+import PropTypes from "prop-types";
+import React from "react";
 
-import EyeIcon from '../EyeIcon';
-import ProgressBar from '../ProgressBar';
-import TextInput from '../TextInput';
+import EyeIcon from "../EyeIcon";
+import ProgressBar from "../ProgressBar";
+import TextInput from "../TextInput";
 
 /** Password input with integrated label, quality tips, and show password toggle. */
 class PasswordInput extends React.Component {
